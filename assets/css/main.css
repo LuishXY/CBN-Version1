@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: ##000000bf;
 		overflow-x: hidden;
 	}
 
@@ -157,17 +157,20 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: #000000bf;
+		color: #ffffff;
 	}
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #ffffff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		letter-spacing: 0.0375em;
 		line-height: 2;
+	}
+	header p{
+		color:#000000;
 	}
 
 	a {
@@ -187,7 +190,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 600;
-		color: #000000;
+		color: #ffffff;
 	}
 
 	em, i {
